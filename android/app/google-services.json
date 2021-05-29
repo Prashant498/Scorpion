@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241912434057",
+    "project_id": "mindsage-93362",
+    "storage_bucket": "mindsage-93362.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241912434057:android:6f369abff25d0527c76558",
+        "android_client_info": {
+          "package_name": "com.Scorpion.health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241912434057-9dhtv4c1g6pa7tk4ldq6ko4llcojl3ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEPd-4Tr-NE2hQX2Td5OXt22hV1cjQvII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241912434057-9dhtv4c1g6pa7tk4ldq6ko4llcojl3ob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
