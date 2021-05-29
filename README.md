@@ -1,16 +1,8 @@
-# health
+# MindSage
 
-A new Flutter project.
+This is the prototype version or a miniature scale version of the final app that we would love to launch.
+We expect that this pleases you in the smallest way possible.
+However we are determined to bring this prototype to a reality soon.
 
-## Getting Started
+Happy Using!
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
